@@ -1,3 +1,14 @@
+команда
+- akylai - devops engineer (a)
+
+стек технологий
+- docker
+- linux
+
+инструкции по запуску
+1. git clone repo
+2. docker build -t app .
+3. docker run app
 # akylai-git-practice
 мой devops проект
 
