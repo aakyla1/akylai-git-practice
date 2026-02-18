@@ -1,3 +1,14 @@
+команда
+- akylai - qa engineer (b)
+
+стек технологий
+- kubernetes
+- github actions
+
+инструкции по запуску
+1. установить зависимости
+2. запустить ./scripts/deploy.sh
+3. проверить логи
 # akylai-git-practice
 мой devops проект
 
